@@ -1,3 +1,2 @@
 # Golf-game
-Golf game made with PyGame in Python
-School project 10.2022-12.2022
+Golf game as a school project made with PyGame in Python 10.2022-12.2022
